@@ -1,0 +1,11 @@
+.container {
+  max-width: 100px;
+  min-height: 10px;
+
+  .content {
+    margin: auto;
+
+    display: flex;
+    flex-direction: column;
+  }
+}
